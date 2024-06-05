@@ -9,7 +9,8 @@ function App() {
     <>
       
       <Container>
-        <Heading>
+        <Heading
+        color={"red"}>
           ToDoApp
         </Heading>
         <HStack
